@@ -14,7 +14,10 @@
 </summary>
 <br>
 <div align="center">
-<img src="https://img.shields.io/badge/html5-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=html5&logoColor=E34F26" /><img src="https://img.shields.io/badge/css3-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=css3&logoColor=1572B6" /><img src="https://img.shields.io/badge/javascript-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/css3-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/javascript-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/spring-91DDCF.svg?font=Franklin Gothic Book&style=for-the-badge&logo=spring&logoColor=1572B6" />
 </div>
 </details>
 
@@ -35,7 +38,17 @@
     </summary>
     <br>
 <div align="center">
-<img src="https://img.shields.io/badge/github-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=github&logoColor=181717" /><img src="https://img.shields.io/badge/eclipseide-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=eclipseide&logoColor=2C2255" /><img src="https://img.shields.io/badge/androidstudio-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=androidstudio&logoColor=3DDC84" /><img src="https://img.shields.io/badge/dbeaver-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=dbeaver&logoColor=382923" /><img src="https://img.shields.io/badge/sublimetext-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=sublimetext&logoColor=FF9800" /><img src="https://img.shields.io/badge/adobephotoshop-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/github-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=github&logoColor=181717" />
+<img src="https://img.shields.io/badge/figma-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=github&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/slack-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=github&logoColor=4A154B" />
+  <br>
+  
+  <img src="https://img.shields.io/badge/eclipseide-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=eclipseide&logoColor=2C2255" />
+  <img src="https://img.shields.io/badge/androidstudio-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/dbeaver-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=dbeaver&logoColor=382923" />
+  <img src="https://img.shields.io/badge/sublimetext-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=sublimetext&logoColor=FF9800" />
+<br>
+<img src="https://img.shields.io/badge/adobephotoshop-E8C5E5.svg?font=Franklin Gothic Book&style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
 </div>
 </details>
 
