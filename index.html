@@ -64,8 +64,11 @@
 
                 <section id="skills">
                     <div class="container">
+
                         <h2>Skills</h2>
-                        
+                         <p style="font-family: Noto Sans KR, sans-serif; text-align: center;">* 클릭해주세요.</p>
+
+
                         <div class="category">
                             <h3>Frontend</h3>
                             <div class="skill">
@@ -228,5 +231,29 @@ document.addEventListener("DOMContentLoaded", function() {
     window.addEventListener("scroll", handleScroll);
     handleScroll(); // Initial check
 });
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+        // 모든 .category 요소에 대해
+        const categories = document.querySelectorAll('.category');
+
+        categories.forEach(category => {
+            // 터치 시작 이벤트
+            category.addEventListener('touchstart', function() {
+                this.classList.add('show-progress');
+            });
+
+            // 터치 종료 이벤트
+            category.addEventListener('touchend', function() {
+                this.classList.remove('show-progress');
+            });
+
+            // 클릭 이벤트 (데스크탑에서 지원)
+            category.addEventListener('click', function() {
+                this.classList.toggle('show-progress');
+            });
+        });
+    });
 </script>
 </html>

@@ -308,6 +308,23 @@ footer {
     padding: 30px 0;
 }
 
+
+
+
+
+
+.category.show-progress .progress-bar {
+    opacity: 1;
+    height: 20px;
+}
+
+.category.show-progress .progress {
+    width: 100%;
+}
+
+
+
+
 /* 태블릿 스타일 */
 @media (min-width: 768px) and (max-width: 1024px) {
     .mainText h1 {
@@ -316,6 +333,20 @@ footer {
 
     header nav ul {
         display: flex;
+    }
+
+    .category {
+        padding: 19px;
+        border-radius: 20px;
+        margin: 10px;
+    }
+
+
+    #skills {
+        background-color: #ffffff;
+        width:70%;
+        box-shadow: 2px 2px 5px #e2dce1;
+        padding: 50px;
     }
 }
 
