@@ -221,6 +221,7 @@ h3 {
 }
 
 #projects {
+    
     background-color: #d8d8d8;
     box-shadow: 2px 2px 5px #e2dce1;
 }
@@ -242,14 +243,14 @@ h3 {
 }
 
 .project-card img {
-    max-width: 100%;
+    max-width: 90%;
 }
 
 .project-card h3 {
     font-family: "Noto Sans KR", sans-serif;
     text-align: center;
     padding: 10px;
-    font-size: 1.2em;
+    font-size: 1.6em;
 }
 
 .project-card p {
@@ -264,8 +265,10 @@ h3 {
     background-color: #db3a78;
     color: #fff;
     text-decoration: none;
-    font-size: 16px;
+    font-size:17px;
     font-weight: bold;
+    margin: 10px;
+    border-radius: 34px;
 }
 
 .project-card a:hover {
